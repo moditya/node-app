@@ -1,2 +1,2 @@
 #!binsh
-.node_modules.binmocha .testtest.js
+.node_modules.binmocha .teststest.js
