@@ -1,2 +1,2 @@
 #!/bin/sh
-./node_modules/mocha ./tests/test.js
+./node_modules/.bin/mocha ./tests/test.js
