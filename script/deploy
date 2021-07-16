@@ -1,5 +1,5 @@
 #!/bin/sh
-ssh ubuntu@ip-172-31-0-80<<EOF
+ssh node@172.31.11.176<<EOF
  cd ~/node-app
  git pull
  npm install — production
