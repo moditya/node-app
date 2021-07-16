@@ -1,2 +1,0 @@
-#!binsh
-.node_modules.binmocha .teststest.js
